@@ -29,11 +29,11 @@ body,html{width:100%;height:100%;background:#000;padding:0;margin:0;overflow-x:h
 document.oncontextmenu=new Function("event.returnValue=false");
 document.onselectstart=new Function("event.returnValue=false");
 </script>
-<script type="text/javascript" src="/box/js/hls.min.js"></script>
-<script type="text/javascript" src="/box/player/js/flv.min.js"></script>
-<script type="text/javascript" src="/box/player/js/DPlayer.min.js"></script>
-<script type="text/javascript" src="/box/player/js/jquery.min.js"></script>
-<script type="text/javascript" src="/box/player/js/p2p.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/woniu336/dplayer@master/box/js/hls.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/woniu336/dplayer@master/box/player/js/flv.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/woniu336/dplayer@master/box/player/js/DPlayer.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/woniu336/dplayer@master/box/player/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/woniu336/dplayer@master/box/player/js/p2p.js"></script>
 <script>
 	var webdata = {
 		set:function(key,val){
