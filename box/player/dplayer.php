@@ -12,7 +12,7 @@
 <meta name="HandheldFriendly" content="true"/>
 <meta name="x5-page-mode" content="app"/>
 <meta name="Viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0"/>
-<link rel="stylesheet" href="/box/player/js/DPlayer.min.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/woniu336/dplayer@master/box/player/js/DPlayer.min.css" type="text/css"/>
 <style type="text/css">
 body,html{width:100%;height:100%;background:#000;padding:0;margin:0;overflow-x:hidden;overflow-y:hidden}
 *{margin:0;border:0;padding:0;text-decoration:none}
